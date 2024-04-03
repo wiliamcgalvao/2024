@@ -1,0 +1,15 @@
+root
+#
+setup-alpine
+br
+br
+cnw
+Etec123
+?
+America
+Sao_Paulo
+busybox
+
+apk add htop
+
+halt -p
